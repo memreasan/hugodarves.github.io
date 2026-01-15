@@ -2,4 +2,4 @@
 layout: home
 title: Home
 ---
-Welcome to **Hugo Darves**.
+*A philosophical approach to avoidance*

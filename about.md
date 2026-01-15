@@ -3,4 +3,5 @@ layout: page
 title: About
 permalink: /about/
 ---
-*A philosophical guide to avoidance*
+
+Soon, you will know more about us.
